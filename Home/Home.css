@@ -34,7 +34,6 @@ body {
 
 .btn:hover {
     color: #00cec9;
-
     background-color: inherit;
     border: none;
 }
